@@ -11,6 +11,6 @@ HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasZam12&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MasZam12&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=IlhamZam&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
